@@ -1,5 +1,3 @@
-![HEXcube's profile pic](https://github.com/HEXcube.png)
-
 # Hi, I'm Rohan "HEXcube" Villoth
 
 I’m a web frontend developer/designer. I contribute to open source projects in my free time.
@@ -7,6 +5,8 @@ I’m a web frontend developer/designer. I contribute to open source projects in
 Cube³ the Fun! :smiley:
 
 [![HEXcube's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEXcube&show_icons=true&theme=radical)](https://github.com/HEXcube)
+
+![HEXcube's profile pic](https://github.com/HEXcube.png)
 
 ### Profiles
 You can find me here as well:
