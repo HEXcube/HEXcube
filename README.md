@@ -4,9 +4,10 @@ I’m a UI developer/designer. I contribute to open source projects in my free t
 
 Cube³ the Fun! :smiley:
 
-[![HEXcube's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEXcube&show_icons=true&theme=radical)](https://github.com/HEXcube)
-
 ![HEXcube's profile pic](https://github.com/HEXcube.png)
+
+[![HEXcube's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEXcube&show_icons=true&hide=stars&include_all_commits=true&theme=radical)](https://github.com/HEXcube)
+[![HEXcube's Top Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HEXcube&layout=compact&theme=radical)](https://github.com/HEXcube)
 
 ### Profiles
 You can find me here as well:
