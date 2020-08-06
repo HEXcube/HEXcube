@@ -1,6 +1,6 @@
 # Hi, I'm Rohan "HEXcube" Villoth
 
-I’m a web frontend developer/designer. I contribute to open source projects in my free time.
+I’m a UI developer/designer. I contribute to open source projects in my free time.
 
 Cube³ the Fun! :smiley:
 
