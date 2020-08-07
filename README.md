@@ -23,8 +23,8 @@ You can find me here as well:
 <a href="https://twitter.com/H3Xcube">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" alt="HEXcube's profile on Twitter" style="vertical-align:top margin:6px 4px">
 </a>
-<a href="https://stackexchange.com/users/3594399/hexcube">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/stackoverflow.svg" alt="HEXcube's profile on StackExchange" style="vertical-align:top margin:6px 4px">
+<a href="https://stackoverflow.com/u/8386844">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/stackoverflow.svg" alt="HEXcube's profile on Stack Overflow" style="vertical-align:top margin:6px 4px">
 </a>
 
 ### Credits
