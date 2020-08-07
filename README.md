@@ -10,8 +10,6 @@ Cube³ the Fun! :smiley:
 [![HEXcube's Top Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HEXcube&layout=compact&theme=buefy)](https://github.com/HEXcube)
 
 ### Profiles
-You can find me here as well:
-
 <a href="https://hexcube.github.io">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/web.svg" alt="HEXcube's website" style="vertical-align:top margin:6px 4px">
 </a>
@@ -30,6 +28,28 @@ You can find me here as well:
 <a href="https://steamcommunity.com/id/HEXcube">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/steam.svg" alt="HEXcube's profile on Steam" style="vertical-align:top margin:6px 4px">
 </a>
+
+### Skills
+<p align="left">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/bootstrap.svg" alt="Bootstrap" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/jquery.svg" alt="jQuery" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/ionic.svg" alt="Ionic" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/phonegap.svg" alt="Phonegap" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/unity.svg" alt="Unity" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/vr.svg" alt="Virtual Reality (VR)" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/mobile.svg" alt="Mobile" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/web.svg" alt="Web" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg" alt="CSS" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/sass.svg" alt="SASS" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/php.svg" alt="PHP" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/nodejs_larger.svg" alt="Node.js" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/csharp.svg" alt="C#" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/android_studio.svg" alt="Android Studio" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg" alt="Visual Studio Code" style="vertical-align:top; margin:6px 4px">
+</p>
 
 ### Credits
 I found these resources helpful when creating this README:
