@@ -1,6 +1,6 @@
 # Hi, I'm Rohan "HEXcube" Villoth
 
-I’m a UI developer/designer. I contribute to open source projects in my free time.
+I’m a UI/UX designer, open source enthusiast and former web developer. I work on web & mobile UI facelift, UX improvement, app wireframes, icon design, SVG, web animations, augmented reality (AR), and more. I'm interested in bleeding-edge developments in tech space, and contribute to open source projects in my free time.
 
 Cube³ the Fun! :smiley:
 
