@@ -1,6 +1,6 @@
 # Hi, I'm Rohan "HEXcube" Villoth
 
-I’m a UI/UX designer, open source enthusiast and former web developer. I work on web & mobile UI facelift, UX improvement, app wireframes, icon design, SVG, web animations, augmented reality (AR), and more. I'm interested in bleeding-edge developments in tech space, and contribute to open source projects in my free time.
+I’m a web developer/designer and UI/UX enthusiast, with experience working in both industry and community projects. I work on web & mobile UI facelift, UX improvement, app wireframes, icon design, SVG, web animations, augmented reality (AR) and more. I'm interested in bleeding-edge developments in tech space, and contribute to open source projects.
 
 Cube³ the Fun! :smiley:
 
@@ -10,7 +10,7 @@ Cube³ the Fun! :smiley:
 [![HEXcube's Top Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HEXcube&layout=compact&theme=buefy)](https://github.com/HEXcube)
 
 ### Profiles
-<a href="https://hexcube.github.io">
+<a href="https://HEXcube.github.io">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/web.svg" alt="HEXcube's website" style="vertical-align:top margin:6px 4px">
 </a>
 <a href="https://medium.com/@HEXcube">
