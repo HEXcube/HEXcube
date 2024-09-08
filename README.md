@@ -1,8 +1,8 @@
 # Hi, I'm Rohan "HEXcube" Villoth
 
-I’m a web developer/designer and UI/UX enthusiast, with experience working in both industry and community projects. I work on web & mobile UI facelift, UX improvement, app wireframes, icon design, SVG, web animations, augmented reality (AR) and more. I'm interested in bleeding-edge developments in tech space, and contribute to open source projects.
+I’m a web developer/designer, with experience working in both industry and community projects. I work on Oracle CX Commerce, web & mobile UI facelift, UX improvement, app wireframes, icon design, SVG, web animations, augmented reality (AR) and more. I'm interested in the latest developments in tech space, and contribute to open source projects.
 
-Cube³ the Fun! :smiley:
+Life is a cycle, balance is the key ☯️
 
 ![HEXcube's profile pic](https://github.com/HEXcube.png)
 
@@ -13,8 +13,8 @@ Cube³ the Fun! :smiley:
 <a href="https://HEXcube.github.io">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/web.svg" alt="HEXcube's website" style="vertical-align:top margin:6px 4px">
 </a>
-<a href="https://medium.com/@HEXcube">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/blogs/medium.svg" alt="HEXcube's blog on Medium" style="vertical-align:top margin:6px 4px">
+<a href="https://medium.com/@RohanVilloth">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/blogs/medium.svg" alt="Rohan Villoth's blog on Medium" style="vertical-align:top margin:6px 4px">
 </a>
 <a href="https://linkedin.com/in/RohanVilloth">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="Rohan Villoth's profile on LinkedIn" style="vertical-align:top margin:6px 4px">
@@ -22,8 +22,8 @@ Cube³ the Fun! :smiley:
 <a href="https://stackoverflow.com/u/8386844">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/stackoverflow.svg" alt="HEXcube's profile on Stack Overflow" style="vertical-align:top margin:6px 4px">
 </a>
-<a href="https://twitter.com/H3Xcube">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" alt="HEXcube's profile on Twitter" style="vertical-align:top margin:6px 4px">
+<a href="https://x.com/RohanVilloth">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" alt="Rohan Villoth's profile on Twitter" style="vertical-align:top margin:6px 4px">
 </a>
 <a href="https://steamcommunity.com/id/HEXcube">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/steam.svg" alt="HEXcube's profile on Steam" style="vertical-align:top margin:6px 4px">
