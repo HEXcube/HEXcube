@@ -2,12 +2,24 @@
 
 I’m a web developer/designer, with experience working in both industry and community projects. I work on Next.js, React, Oracle CX Commerce (OCC), Node, B2B and B2C eCommerce, mobile app development, UX improvement, Scalable Vector Graphics (SVG), Augmented Reality (AR) and more. I'm interested in the latest developments in tech space, and contribute to open source projects.
 
-Life is a cycle, balance is the key ☯️
+*Life is a cycle, balance is the key ☯️*
 
-![HEXcube's profile pic](https://github.com/HEXcube.png)
+<img src="https://github.com/HEXcube.png" width="240" alt="HEXcube avatar" />
 
-[![HEXcube's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEXcube&show_icons=true&hide=stars&include_all_commits=true&theme=buefy)](https://github.com/HEXcube)
-[![HEXcube's Top Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HEXcube&layout=compact&theme=buefy)](https://github.com/HEXcube)
+### GitHub Stats
+<p>
+  <a href="https://github.com/HEXcube">
+    <img src="https://github-readme-stats.vercel.app/api?username=HEXcube&show_icons=true&hide=stars&include_all_commits=true&theme=buefy" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/HEXcube">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEXcube&layout=compact&theme=buefy" alt="Top Languages" />
+  </a>
+</p>
+<p>
+  <a href="https://github.com/HEXcube">
+    <img src="https://streak-stats.demolab.com?user=HEXcube&theme=buefy" alt="GitHub Streak" />
+  </a>
+</p>
 
 ### Profiles
 <p align="left">
