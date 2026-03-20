@@ -1,6 +1,6 @@
 # Hi, I'm Rohan "HEXcube" Villoth
 
-I’m a web developer/designer, with experience working in both industry and community projects. I work on Oracle CX Commerce, web & mobile UI facelift, UX improvement, app wireframes, icon design, SVG, web animations, augmented reality (AR) and more. I'm interested in the latest developments in tech space, and contribute to open source projects.
+I’m a web developer/designer, with experience working in both industry and community projects. I work on Next.js, React, Oracle CX Commerce (OCC), Node, B2B and B2C eCommerce, mobile app development, UX improvement, Scalable Vector Graphics (SVG), Augmented Reality (AR) and more. I'm interested in the latest developments in tech space, and contribute to open source projects.
 
 Life is a cycle, balance is the key ☯️
 
@@ -10,45 +10,43 @@ Life is a cycle, balance is the key ☯️
 [![HEXcube's Top Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HEXcube&layout=compact&theme=buefy)](https://github.com/HEXcube)
 
 ### Profiles
-<a href="https://HEXcube.github.io">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/web.svg" alt="HEXcube's website" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="https://medium.com/@RohanVilloth">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/blogs/medium.svg" alt="Rohan Villoth's blog on Medium" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="https://linkedin.com/in/RohanVilloth">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="Rohan Villoth's profile on LinkedIn" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="https://stackoverflow.com/u/8386844">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/stackoverflow.svg" alt="HEXcube's profile on Stack Overflow" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="https://x.com/RohanVilloth">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" alt="Rohan Villoth's profile on Twitter" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="https://steamcommunity.com/id/HEXcube">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/steam.svg" alt="HEXcube's profile on Steam" style="vertical-align:top margin:6px 4px">
-</a>
+<p align="left">
+  <a href="https://HEXcube.github.io">
+    <img src="https://img.shields.io/badge/Website-HEXcube-005571?style=flat-square&logo=googlechrome&logoColor=white" alt="HEXcube's website" />
+  </a>
+  <a href="https://medium.com/@RohanVilloth">
+    <img src="https://img.shields.io/badge/Medium-RohanVilloth-12100E?style=flat-square&logo=medium&logoColor=white" alt="Rohan Villoth's blog on Medium" />
+  </a>
+  <a href="https://linkedin.com/in/RohanVilloth">
+    <img src="https://img.shields.io/badge/LinkedIn-RohanVilloth-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Rohan Villoth's profile on LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/u/8386844">
+    <img src="https://img.shields.io/badge/Stack_Overflow-8386844-F58025?style=flat-square&logo=stackoverflow&logoColor=white" alt="HEXcube's profile on Stack Overflow" />
+  </a>
+  <a href="https://x.com/RohanVilloth">
+    <img src="https://img.shields.io/badge/X-%40RohanVilloth-000000?style=flat-square&logo=x&logoColor=white" alt="Rohan Villoth's profile on X (formerly Twitter)" />
+  </a>
+  <a href="https://steamcommunity.com/id/HEXcube">
+    <img src="https://img.shields.io/badge/Steam-HEXcube-000000?style=flat-square&logo=steam&logoColor=white" alt="HEXcube's profile on Steam" />
+  </a>
+</p>
 
 ### Skills
 <p align="left">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/bootstrap.svg" alt="Bootstrap" style="vertical-align:top; margin:6px 4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/jquery.svg" alt="jQuery" style="vertical-align:top; margin:6px 4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/ionic.svg" alt="Ionic" style="vertical-align:top; margin:6px 4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/phonegap.svg" alt="Phonegap" style="vertical-align:top; margin:6px 4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/unity.svg" alt="Unity" style="vertical-align:top; margin:6px 4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/vr.svg" alt="Virtual Reality (VR)" style="vertical-align:top; margin:6px 4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/mobile.svg" alt="Mobile" style="vertical-align:top; margin:6px 4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/web.svg" alt="Web" style="vertical-align:top; margin:6px 4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top; margin:6px 4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg" alt="CSS" style="vertical-align:top; margin:6px 4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/sass.svg" alt="SASS" style="vertical-align:top; margin:6px 4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top; margin:6px 4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/php.svg" alt="PHP" style="vertical-align:top; margin:6px 4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/nodejs_larger.svg" alt="Node.js" style="vertical-align:top; margin:6px 4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:6px 4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/csharp.svg" alt="C#" style="vertical-align:top; margin:6px 4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/android_studio.svg" alt="Android Studio" style="vertical-align:top; margin:6px 4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg" alt="Visual Studio Code" style="vertical-align:top; margin:6px 4px">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="SASS" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" alt="Ionic" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visualstudio&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/XR-000000?style=flat-square&logo=oculus&logoColor=white" alt="XR" />
+  <img src="https://img.shields.io/badge/SVG-FFB13B?style=flat-square&logo=svg&logoColor=black" alt="SVG" />
 </p>
 
 ### Credits
