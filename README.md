@@ -49,8 +49,8 @@ I’m a web developer/designer, with experience working in both industry and com
   <a href="https://stackexchange.com/users/3594399/rohan-hexcube-villoth">
     <img src="https://img.shields.io/badge/Stack_Exchange-Rohan_Villoth-1E5397?style=flat-square&logo=stackexchange&logoColor=white" alt="Rohan Villoth's Stack Exchange" />
   </a>
-  <a href="https://deviantart.com/RohanVilloth">
-    <img src="https://img.shields.io/badge/DeviantArt-RohanVilloth-05CC47?style=flat-square&logo=deviantart&logoColor=white" alt="Rohan Villoth's DeviantArt" />
+  <a href="https://deviantart.com/HEXcube">
+    <img src="https://img.shields.io/badge/DeviantArt-HEXcube-05CC47?style=flat-square&logo=deviantart&logoColor=white" alt="Rohan Villoth's DeviantArt" />
   </a>
   <a href="https://instagram.com/rohan.villoth">
     <img src="https://img.shields.io/badge/Instagram-rohan.villoth-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Rohan Villoth's Instagram" />
