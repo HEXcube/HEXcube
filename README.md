@@ -9,10 +9,18 @@ I’m a web developer/designer, with experience working in both industry and com
 ### GitHub Stats
 <p>
   <a href="https://github.com/HEXcube">
-    <img src="https://github-readme-stats.vercel.app/api?username=HEXcube&show_icons=true&hide=stars&include_all_commits=true&theme=buefy" alt="GitHub Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HEXcube&theme=buefy" alt="Profile Details" />
+  </a>
+</p>
+<p>
+  <a href="https://github.com/HEXcube">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HEXcube&theme=buefy" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/HEXcube">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEXcube&layout=compact&theme=buefy" alt="Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HEXcube&theme=buefy" alt="Repos Per Language" />
+  </a>
+  <a href="https://github.com/HEXcube">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HEXcube&theme=buefy&utcOffset=-5" alt="Productive Time" />
   </a>
 </p>
 <p>
