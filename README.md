@@ -34,14 +34,29 @@ I’m a web developer/designer, with experience working in both industry and com
   <a href="https://HEXcube.github.io">
     <img src="https://img.shields.io/badge/Website-HEXcube-005571?style=flat-square&logo=googlechrome&logoColor=white" alt="HEXcube's website" />
   </a>
-  <a href="https://medium.com/@RohanVilloth">
-    <img src="https://img.shields.io/badge/Medium-RohanVilloth-12100E?style=flat-square&logo=medium&logoColor=white" alt="Rohan Villoth's blog on Medium" />
+  <a href="https://github.com/HEXcube">
+    <img src="https://img.shields.io/badge/GitHub-HEXcube-181717?style=flat-square&logo=github&logoColor=white" alt="Rohan Villoth's GitHub" />
   </a>
   <a href="https://linkedin.com/in/RohanVilloth">
     <img src="https://img.shields.io/badge/LinkedIn-RohanVilloth-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Rohan Villoth's profile on LinkedIn" />
   </a>
-  <a href="https://stackoverflow.com/u/8386844">
-    <img src="https://img.shields.io/badge/Stack_Overflow-8386844-F58025?style=flat-square&logo=stackoverflow&logoColor=white" alt="HEXcube's profile on Stack Overflow" />
+  <a href="https://medium.com/@RohanVilloth">
+    <img src="https://img.shields.io/badge/Medium-RohanVilloth-12100E?style=flat-square&logo=medium&logoColor=white" alt="Rohan Villoth's blog on Medium" />
+  </a>
+  <a href="https://dev.to/RohanVilloth">
+    <img src="https://img.shields.io/badge/DEV.to-RohanVilloth-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="Rohan Villoth's DEV Profile" />
+  </a>
+  <a href="https://stackexchange.com/users/3594399/rohan-hexcube-villoth">
+    <img src="https://img.shields.io/badge/Stack_Exchange-Rohan_Villoth-1E5397?style=flat-square&logo=stackexchange&logoColor=white" alt="Rohan Villoth's Stack Exchange" />
+  </a>
+  <a href="https://deviantart.com/RohanVilloth">
+    <img src="https://img.shields.io/badge/DeviantArt-RohanVilloth-05CC47?style=flat-square&logo=deviantart&logoColor=white" alt="Rohan Villoth's DeviantArt" />
+  </a>
+  <a href="https://instagram.com/rohan.villoth">
+    <img src="https://img.shields.io/badge/Instagram-rohan.villoth-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Rohan Villoth's Instagram" />
+  </a>
+  <a href="https://youtube.com/RohanVilloth">
+    <img src="https://img.shields.io/badge/YouTube-RohanVilloth-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Rohan Villoth's YouTube" />
   </a>
   <a href="https://x.com/RohanVilloth">
     <img src="https://img.shields.io/badge/X-%40RohanVilloth-000000?style=flat-square&logo=x&logoColor=white" alt="Rohan Villoth's profile on X (formerly Twitter)" />
